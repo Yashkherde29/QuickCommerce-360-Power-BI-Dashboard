@@ -10,7 +10,7 @@ The project explores platform-specific sales performance, product pricing, disco
 
 The Executive Overview brings together key metrics and platform-specific visualizations.
 
-![QuickCommerce 360 Executive Overview](screenshots/executive-overview.png)
+![QuickCommerce 360 Executive Overview]
 
 **Key features**
 - Blinkit total sales and average rating.
@@ -24,7 +24,7 @@ The Executive Overview brings together key metrics and platform-specific visuali
 
 This page focuses on Zepto's product pricing and availability.
 
-![Pricing and Inventory Analysis](screenshots/pricing-inventory.png)
+![Pricing and Inventory Analysis]
 
 **Key features**
 - Average selling price.
@@ -37,7 +37,7 @@ This page focuses on Zepto's product pricing and availability.
 
 This page explores sales patterns across Blinkit and Swiggy Instamart.
 
-![Sales and Outlet Analysis](screenshots/sales-outlet-analysis.png)
+![Sales and Outlet Analysis]
 
 **Key features**
 - Blinkit sales by outlet type and location type.
