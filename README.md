@@ -109,17 +109,6 @@ The report includes slicers that allow users to filter the corresponding platfor
 
 Because the datasets are separate, each slicer filters the visuals associated with its respective platform.
 
-## Repository Structure
-
-```text
-QuickCommerce-360-Power-BI-Dashboard/
-├── README.md
-├── QuickCommerce 360.pbix
-└── screenshots/
-    ├── executive-overview.png
-    ├── pricing-inventory.png
-    └── sales-outlet-analysis.png
-```
 
 ## How to Use the Dashboard
 
